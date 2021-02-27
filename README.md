@@ -7,7 +7,7 @@ git clone https://github.com/eklchan/lingumi.git
 npm install
 npm run start 
 ```
-Install Expo on your Mobile Phone and scan the QR code on the terminal. 
+Install Expo on your Mobile Phone and scan the QR code on the terminal. You're good to go!
 
 ## Tech
 
@@ -36,5 +36,6 @@ or systems would you want to put in place, and why?
 
 - I only own an Android device, I do not know how this would render on an iOS device. 
 - I did not have enough time to set up Jest Testing for Expo
+- I combined the "tags" search function and the terms search function into one. 
 
 
